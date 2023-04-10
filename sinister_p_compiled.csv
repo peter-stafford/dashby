@@ -1,0 +1,8 @@
+word_lc,cos_dist,count,root_word,lemma_count
+coherence,1.0,0.8,root,1
+dismounted,1.0,0.8,root,1
+elocution,1.0,0.8,root,1
+euphemisms,1.0,0.8,root,1
+foreground,1.0,0.8,root,1
+proprietor,1.0,0.8,root,3
+radiated,1.0,0.8,root,1

@@ -1,0 +1,10 @@
+word_lc,cos_dist,count,root_word,lemma_count
+contain,1.0,0.8,root,1
+contained,1.0,0.8,root,2
+domesticated,1.0,0.8,root,1
+generating,1.0,0.8,root,1
+normandy,1.0,0.8,root,1
+pasquinade,1.0,0.8,root,1
+transpired,1.0,0.8,root,1
+vestibule,1.0,0.8,root,1
+vestibules,1.0,0.8,root,1
