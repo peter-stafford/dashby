@@ -1,4 +1,5 @@
 word_lc,cos_dist,count,root_word,lemma_count
+advertisement,1.0,0.8,root,4
 alarming,1.0,0.8,root,1
 amazing,1.0,0.8,root,2
 antecedents,1.0,0.8,root,1
@@ -12,7 +13,6 @@ brilliant,1.0,0.8,root,1
 colossal,1.0,0.8,root,4
 compulsion,1.0,0.8,root,1
 considerable,1.0,0.8,root,1
-contempt,1.0,0.8,root,2
 corroborate,1.0,0.8,root,1
 curious,1.0,0.8,root,12
 dazzling,1.0,0.8,root,1
